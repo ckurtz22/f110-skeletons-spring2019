@@ -7,3 +7,6 @@
 [submodule "src/ceres-solver"]
 	path = src/ceres-solver
 	url = https://ceres-solver.googlesource.com/ceres-solver.git
+[submodule "src/system/urg_node"]
+	path = src/system/urg_node
+	url = git@github.com:ros-drivers/urg_node.git
